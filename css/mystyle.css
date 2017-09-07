@@ -1,0 +1,7 @@
+ /*Define Your Custom CSS*/
+
+ #xepan-cms-toolbar-right-side-panel.container,
+ #xepan-cms-toolbar-left-side-panel.container
+ {
+ 	width: -230px !important;
+ }
